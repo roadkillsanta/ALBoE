@@ -2,6 +2,10 @@ If you are an author of any of these mods and want the mod(s) removed from the m
 I try to give the link to the source code. If this is not available, I provide the link to download the jar file.
 
 ## Mods (In Alphabetical Order | All mods are for 1.7.10)
+Archimedes' Ships 1.7.1 - https://minecraft.curseforge.com/projects/archimedes-ships/
+
+Better Storage 0.13.1.126 - https://github.com/copygirl/BetterStorage
+
 Buildcraft 7.1.23 - https://github.com/BuildCraft/BuildCraft
 
 CodeChickenCore (Dependency) - https://github.com/TheCBProject/CodeChickenCore
@@ -9,6 +13,8 @@ CodeChickenCore (Dependency) - https://github.com/TheCBProject/CodeChickenCore
 CoFH Core (Dependency) - https://github.com/CoFH/CoFHCore
 
 ChickenChunks - https://github.com/TheCBProject/ChickenChunks
+
+Chisel 2.9.5.11 - https://github.com/Chisel-Team/Chisel
 
 Flan's Mod - https://github.com/FlansMods/FlansMod
 
@@ -24,7 +30,9 @@ JourneyMap 5.1.4p2 - https://minecraft.curseforge.com/projects/journeymap
 
 Mekanism - https://github.com/mekanism/Mekanism/tree/1.7.10
 
-MicdoodleCore - https://github.com/micdoodle8/MicdoodleCore
+MrCrayfish's Furniture Mod 3.4.7 - https://github.com/MrCrayfish/MrCrayfishFurnitureMod
+
+MicdoodleCore (Dependency) - https://github.com/micdoodle8/MicdoodleCore
 
 Not Enough Items - https://github.com/TheCBProject/NotEnoughItems
 
@@ -45,6 +53,8 @@ Thermal Foundation - https://github.com/CoFH/ThermalFoundation
 Tinker's Construct  - https://github.com/SlimeKnights/TinkersConstruct/tree/1.7.10
 
 Traincraft 4.4.1 - https://github.com/EternalBlueFlame/Traincraft-5
+
+Universal Electricity 4.0.0.1 - https://minecraft.curseforge.com/projects/universal-electricity/
 
 Wireless Redstone - https://github.com/TheCBProject/WirelessRedstone
 
