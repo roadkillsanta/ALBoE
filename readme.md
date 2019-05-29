@@ -20,6 +20,8 @@ HWYLA - https://github.com/TehNut/HWYLA
 
 IndustrialCraft 2 2.2.828 - http://ic2api.player.to:8080/job/IC2_experimental/
 
+JourneyMap 5.1.4p2 - https://minecraft.curseforge.com/projects/journeymap
+
 Mekanism - https://github.com/mekanism/Mekanism/tree/1.7.10
 
 MicdoodleCore - https://github.com/micdoodle8/MicdoodleCore
@@ -63,8 +65,7 @@ GregTech Compatibility Mods
  - Thaumic Fixer - https://minecraft.curseforge.com/projects/thaumic-fixer
 
 MicdoodleCore - https://github.com/micdoodle8/MicdoodleCore
- - Galacticraft - https://github.com/micdoodle8/MicdoodleCore
- - 
+ - Galacticraft 3.0.12.504 - https://github.com/micdoodle8/Galacticraft 
  
  ## Plugins (You know the deal.)
  FastCraft - https://github.com/BenWoodworth/FastCraft
