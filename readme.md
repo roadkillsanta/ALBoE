@@ -6,6 +6,8 @@ Archimedes' Ships 1.7.1 - https://minecraft.curseforge.com/projects/archimedes-s
 
 Better Storage 0.13.1.126 - https://github.com/copygirl/BetterStorage
 
+Big Reactors - 
+
 Buildcraft 7.1.23 - https://github.com/BuildCraft/BuildCraft
 
 CodeChickenCore (Dependency) - https://github.com/TheCBProject/CodeChickenCore
@@ -33,6 +35,8 @@ Mekanism - https://github.com/mekanism/Mekanism/tree/1.7.10
 MrCrayfish's Furniture Mod 3.4.7 - https://github.com/MrCrayfish/MrCrayfishFurnitureMod
 
 MicdoodleCore (Dependency) - https://github.com/micdoodle8/MicdoodleCore
+
+Minefactory Reloaded 2.8.2B1-201 - https://minecraft.curseforge.com/projects/minefactory-reloaded/
 
 Not Enough Items - https://github.com/TheCBProject/NotEnoughItems
 
