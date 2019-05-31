@@ -40,6 +40,8 @@ Minefactory Reloaded 2.8.2B1-201 - https://minecraft.curseforge.com/projects/min
 
 Not Enough Items - https://github.com/TheCBProject/NotEnoughItems
 
+NEI Integration - 
+
 Railcraft 9.12.2.0 - http://www.railcraft.info/releases/
 
 RedstoneArsenal - https://github.com/TheCBProject/RedstoneArsenal
