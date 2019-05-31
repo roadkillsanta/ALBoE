@@ -63,7 +63,7 @@ Universal Electricity 4.0.0.1 - https://minecraft.curseforge.com/projects/univer
 Wireless Redstone - https://github.com/TheCBProject/WirelessRedstone
 
 ## Dependencies (In Alphabetical Order)
-CodeChickenCore - https://github.com/TheCBProject/CodeChickenCore
+CodeChickenCore + CodeChickenLib - https://github.com/TheCBProject/CodeChickenCore
  - ChickenChunks - https://github.com/TheCBProject/ChickenChunks
  - Not Enough Items - https://github.com/TheCBProject/NotEnoughItems
  - Wireless Redstone - https://github.com/TheCBProject/WirelessRedstone
